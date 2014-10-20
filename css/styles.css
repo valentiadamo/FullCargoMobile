@@ -11,10 +11,11 @@ body {
     background-color: #fff;
     overflow: hidden;
     position: relative;
+	background: #fff url("../img/flowers-right.png") no-repeat fixed 100% -174px;
 }
 
 .header {
-    background: #666;
+    background: #496077;
     -webkit-background-size: 1px 44px;
     -moz-background-size: 1px 44px;
     -ms-background-size: 1px 44px;
@@ -55,7 +56,7 @@ body {
 }
 
 .search-bar {
-    background: #ccc;
+    background: #869EB0;
     height: 32px;
     padding-left:6px;
     padding-right: 6px;
